@@ -1,6 +1,6 @@
 ![Header](/img/banner.png)
 
-<h3 align="center">--- About Me ---</h3>
+<h3 align="center">-- About Me --</h3>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/davina-marpaung-492731347/">
@@ -31,12 +31,13 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
 </div>
+___
 
 <br/>
 
 <div align="center">
 <h3>
-📊 My GitHub Stat 📊
+-- GitHub Analytics --
 </h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davinacaecilia&theme=everforest-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)

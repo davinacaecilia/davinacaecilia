@@ -2,6 +2,12 @@
 
 <h3 align="center">-- About Me --</h3>
 <div align="center">
+Hi, there! I'm an undergraduate student of Information Technology at Universitas Sumatera Utara
+
+I'm currently deepening my knowledge in web development
+</div>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/davina-marpaung-492731347/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,7 +37,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
 </div>
-___
 
 <br/>
 

@@ -2,7 +2,7 @@
 ##
 
 <h3 align="center">-- ✨ABOUT ME✨ --</h3>
-<div align="center" style="font-size:20px;">
+<div align="center">
 Hi, there! I'm an undergraduate student of Information Technology at Universitas Sumatera Utara
 
 I'm currently deepening my knowledge in web development and database management
@@ -13,7 +13,6 @@ I love learning and exploring new things🔥
 <br/>
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/davina-marpaung-492731347/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -46,13 +45,13 @@ I love learning and exploring new things🔥
 <br/>
 
 ##
+
 <div align="center">
 <h3>
 -- ✨GitHub Analytics✨ --
 </h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davinacaecilia&theme=everforest-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
-
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/davinacaecilia/davinacaecilia/output/github-contribution-grid-snake-dark.svg)

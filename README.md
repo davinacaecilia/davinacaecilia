@@ -1,7 +1,7 @@
 ![Header](/img/banner.png)
 ##
 
-<h3 align="center">-- ✨About Me✨ --</h3>
+<h3 align="center">-- ✨ABOUT ME✨ --</h3>
 <div align="center" style="font-size:20px;">
 Hi, there! I'm an undergraduate student of Information Technology at Universitas Sumatera Utara
 

@@ -48,7 +48,7 @@ I love learning and exploring new things🔥
 ##
 <div align="center">
 <h3>
--- GitHub Analytics --
+-- ✨GitHub Analytics✨ --
 </h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davinacaecilia&theme=everforest-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)

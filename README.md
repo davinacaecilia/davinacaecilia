@@ -1,6 +1,6 @@
 ![Header](/img/banner.png)
 
-<h3 align="center">About Me</h3>
+<h3 align="center">✨About Me✨</h3>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/davina-marpaung-492731347/">
@@ -33,16 +33,14 @@
 </div>
 
 
----
 <div align="center">
 <h3>
-My GitHub Stat
+📊My GitHub Stat📊
 </h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davinacaecilia&theme=everforest-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 </div>
 
----
 ![Snake animation](https://raw.githubusercontent.com/davinacaecilia/davinacaecilia/output/github-contribution-grid-snake-dark.svg)
 

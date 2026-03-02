@@ -1,7 +1,7 @@
 ![Header](/img/banner.png)
 
-<h3 align="center">-- ✨About Me✨ --</h3>
-<div align="center">
+<h2 align="center">-- ✨About Me✨ --</h2>
+<div align="center" font-size="20px">
 Hi, there! I'm an undergraduate student of Information Technology at Universitas Sumatera Utara
 
 I'm currently deepening my knowledge in web development and database management
@@ -9,7 +9,6 @@ I'm currently deepening my knowledge in web development and database management
 I love learning and exploring new things🔥
 </div>
 
-<br/>
 <br/>
 
 <div align="center">
@@ -46,9 +45,9 @@ I love learning and exploring new things🔥
 <br/>
 
 <div align="center">
-<h3>
+<h2>
 -- GitHub Analytics --
-</h3>
+</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davinacaecilia&theme=everforest-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 

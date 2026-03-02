@@ -1,15 +1,15 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400..700;1,400..700&family=Anton+SC&family=Monofett&display=swap" rel="stylesheet">
-
+<head>
 <style>
 .monofett-regular {
   font-family: "Monofett", monospace;
   font-weight: 400;
   font-style: normal;
 }
-
 </style>
+</head>
 
 ![Header](/img/banner.png)
 <h3 class="monofett-regular" align="center">MY SOCIALS</h3>

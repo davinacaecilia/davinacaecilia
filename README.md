@@ -1,6 +1,6 @@
 ![Header](/img/banner.png)
 
-<h3 align="center">✨ About Me ✨</h3>
+<h3 align="center">-- About Me --</h3>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/davina-marpaung-492731347/">

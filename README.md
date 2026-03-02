@@ -11,8 +11,8 @@
 </div>
 
 
-<div>
-<h2 align="center">
+<div align="center">
+<h3>
 My GitHub Stat
 </h3>
 

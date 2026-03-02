@@ -9,6 +9,9 @@ I'm currently deepening my knowledge in web development and database management
 I love learning and exploring new things🔥
 </div>
 
+<br/>
+<br/>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/davina-marpaung-492731347/">

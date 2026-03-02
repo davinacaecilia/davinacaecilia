@@ -1,10 +1,12 @@
 ![Header](/img/banner.png)
 
-<h3 align="center">-- About Me --</h3>
+<h3 align="center">-- ✨About Me✨ --</h3>
 <div align="center">
 Hi, there! I'm an undergraduate student of Information Technology at Universitas Sumatera Utara
 
-I'm currently deepening my knowledge in web development
+I'm currently deepening my knowledge in web development and database management
+
+I love learning and exploring new things🔥
 </div>
 
 <div align="center">

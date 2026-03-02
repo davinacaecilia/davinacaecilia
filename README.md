@@ -12,8 +12,7 @@
 </a>
 </div>
 
-<h3 align="center">Tech Stack</h3>
-<div align="center" style="border: 3px solid red; padding: 15px; border-radius: 5px;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
